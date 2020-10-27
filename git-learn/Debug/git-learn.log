@@ -1,0 +1,3 @@
+﻿  HelloGit.cpp
+D:\Solutions\git-learn\git-learn\HelloGit.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  git-learn.vcxproj -> D:\Solutions\git-learn\Debug\git-learn.exe
